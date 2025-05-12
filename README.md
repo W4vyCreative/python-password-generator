@@ -3,7 +3,7 @@
 
 # 🔐 Random Password Generator in Python
 
-This is a simple and effective random password generator built with Python. It's a beginner-friendly project designed to practice basic Python concepts while creating something useful.
+This is a VERY simple and effective random password generator built with Python. It's a beginner-friendly project designed to practice basic Python concepts while creating something useful. I made it just for practice, hope it's somewhat useful :)
 
 ## 🧠 What it does
 
